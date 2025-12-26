@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hey, I'm Andy 👋
 
-<!--
-**andyships/andyships** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder & Solo Engineer** — I design, build, and ship production software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### [LowLighter](https://lowlighter.app) — AI-Powered Screen Reader
+
+Built from scratch in **7 weeks**. Real users. Real payments.
+
+<table>
+<tr>
+<td width="50%">
+
+**What it does:**
+- Select any screen region → Get instant AI answers
+- 5 modes: Answer, Explain, Summarize, Rewrite, Translate
+- Works with images, text, diagrams, equations
+- Global hotkeys from any app
+
+</td>
+<td width="50%">
+
+**What I built:**
+- 🖥️ Cross-platform desktop app (Electron)
+- ⚡ Dual AI engine (GPT-4o Vision + OCR fallback)
+- 👻 Phantom Mode (hardware-level stealth)
+- 💳 Full billing system (Stripe)
+- 🔐 Auth with email verification
+
+</td>
+</tr>
+</table>
+
+### Repositories
+
+| | |
+|---|---|
+| 📦 **[lowlighter-desktop](https://github.com/andyships/lowlighter-desktop)** | Electron app — AI modes, Phantom stealth, premium UI |
+| 🔧 **[lowlighter-api](https://github.com/andyships/lowlighter-api)** | Node.js backend — Auth, billing, usage metering |
+| 🌐 **[lowlighter-site](https://github.com/andyships/lowlighter-site)** | Astro marketing site — Landing, auth, account portal |
+
+---
+
+## 🛠️ Tech Stack
+
+```
+Frontend        Electron · Astro · Tailwind CSS
+Backend         Node.js · Express · SQLite
+AI/ML           OpenAI GPT-4o · Tesseract.js OCR
+Payments        Stripe Checkout · Webhooks · Customer Portal
+Auth            JWT · bcrypt · Email verification
+DevOps          Vercel · electron-builder · Code signing
+```
+
+---
+
+## 📫 Let's Connect
+
+🌐 **[lowlighter.app](https://lowlighter.app)**
+
+---
+
+<sub>*Open to founding engineer / product engineer roles. I ship.*</sub>
