@@ -25,7 +25,7 @@ Built from scratch in **7 weeks**. Real users. Real payments.
 
 **What I built:**
 - 🖥️ Cross-platform desktop app (Electron)
-- ⚡ Dual AI engine (GPT-4.1-mini Vision + OCR fallback)
+- ⚡ Dual AI engine (GPT-5-mini Vision + GPT-4o-mini/OCR fallback)
 - 👻 Phantom Mode (hardware-level stealth)
 - 💳 Full billing system (Stripe)
 - 🔐 Auth with email verification
@@ -49,7 +49,7 @@ Built from scratch in **7 weeks**. Real users. Real payments.
 ```
 Frontend        Electron · Astro · Tailwind CSS
 Backend         Node.js · Express · SQLite
-AI/ML           OpenAI GPT-4.1-mini Vision · GPT-4o-mini · Tesseract.js OCR
+AI/ML           OpenAI GPT-5-mini Vision · GPT-4o-mini · Tesseract.js OCR
 Payments        Stripe Checkout · Webhooks · Customer Portal
 Auth            JWT · bcrypt · Email verification
 DevOps          Vercel · electron-builder · Code signing
