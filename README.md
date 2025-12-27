@@ -2,13 +2,15 @@
 
 **Founder & Solo Engineer** — I design, build, and ship production software.
 
+**7 weeks. ~30k lines of authored code. Kernel-level Windows/macOS integration. Production app with paying users. Solo.**
+
 ---
 
 ## 🚀 Featured Project
 
 ### [LowLighter](https://lowlighter.app) — AI-Powered Screen Reader
 
-Built from scratch in **7 weeks**. Real users. Real payments.
+Built from scratch in **7 weeks** at **18 years old** with **zero prior CS experience**. Real users. Real payments.
 
 <table>
 <tr>
@@ -21,12 +23,13 @@ Built from scratch in **7 weeks**. Real users. Real payments.
 - Global hotkeys from any app
 
 </td>
-<td width="50%">
-
-**What I built:**
-- 🖥️ Cross-platform desktop app (Electron)
-- ⚡ Dual AI engine (GPT-5-mini Vision + GPT-4o-mini/OCR fallback)
-- 👻 Phantom Mode (hardware-level stealth)
+<tTechnical achievements:**
+- 🔥 **Kernel-level OS integration** — Win32 hooks, macOS IOKit HID
+- 🛠️ **FFI bindings** — Native C API calls from JavaScript
+- 👻 **Screen capture invisibility** — SetWindowDisplayAffinity API
+- ⚙️ **Atomic concurrent systems** — PostgreSQL row locking
+- 💳 **Full Stripe lifecycle** — Webhooks, metering, prorations
+- 🌍 **35-language OCR** — Intelligent script detecevel stealth)
 - 💳 Full billing system (Stripe)
 - 🔐 Auth with email verification
 
