@@ -2,7 +2,7 @@
 
 **Founder & Solo Engineer** — I design, build, and ship production software.
 
-**7 weeks. ~30k lines of authored code. Kernel-level Windows/macOS integration. Production app with paying users. Solo.**
+**7 weeks. ~32k lines of authored code. 410+ commits. Kernel-level Windows/macOS integration. Production app with paying users. Solo.**
 
 ---
 
@@ -23,19 +23,26 @@ Built from scratch in **7 weeks** at **18 years old** with **zero prior CS exper
 - Global hotkeys from any app
 
 </td>
-<tTechnical achievements:**
-- 🔥 **Kernel-level OS integration** — Win32 hooks, macOS IOKit HID
-- 🛠️ **FFI bindings** — Native C API calls from JavaScript
-- 👻 **Screen capture invisibility** — SetWindowDisplayAffinity API
-- ⚙️ **Atomic concurrent systems** — PostgreSQL row locking
-- 💳 **Full Stripe lifecycle** — Webhooks, metering, prorations
-- 🌍 **35-language OCR** — Intelligent script detecevel stealth)
+<td width="50%">
+
+**What I built:**
+- 🖥️ Cross-platform desktop app (Electron)
+- ⚡ Dual AI engine (GPT-5-mini Vision + GPT-4o-mini/OCR fallback)
+- 👻 Phantom Mode (hardware-level stealth)
 - 💳 Full billing system (Stripe)
 - 🔐 Auth with email verification
 
 </td>
 </tr>
 </table>
+
+**Technical achievements:**
+- 🔥 **Kernel-level OS integration** — Win32 hooks, macOS IOKit HID
+- 🛠️ **FFI bindings** — Native C API calls from JavaScript
+- 👻 **Screen capture invisibility** — SetWindowDisplayAffinity API
+- ⚙️ **Atomic concurrent systems** — PostgreSQL row locking
+- 💳 **Full Stripe lifecycle** — Webhooks, metering, prorations
+- 🌍 **35-language OCR** — Intelligent script detection
 
 ### Repositories
 
@@ -51,11 +58,11 @@ Built from scratch in **7 weeks** at **18 years old** with **zero prior CS exper
 
 ```
 Frontend        Electron · Astro · Tailwind CSS
-Backend         Node.js · Express · SQLite
+Backend         Node.js · Express · PostgreSQL
 AI/ML           OpenAI GPT-5-mini Vision · GPT-4o-mini · Tesseract.js OCR
 Payments        Stripe Checkout · Webhooks · Customer Portal
 Auth            JWT · bcrypt · Email verification
-DevOps          Vercel · electron-builder · Code signing
+DevOps          Vercel · Render · electron-builder · Code signing
 ```
 
 ---
